@@ -4,6 +4,14 @@
     margin: 0;
 }
 
+main {
+    /* Turns this element into a flexbox */
+    display: flex;
+    /* Forces elements to the next line if they don't fit */
+    flex-wrap: wrap;
+    margin-top: 2%;
+  }
+
 body {
     background-color: #d9dcd6;
 }
