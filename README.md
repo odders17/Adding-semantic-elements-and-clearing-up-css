@@ -14,4 +14,4 @@ Added meta tags into the html head section. Changed the many div tags in the htm
 
 Added descriptions to the css to explain the purpose of each section. And grouped the header, search engine optimization, online reputation management and social media marketing sections together reducing the amount of code and kept the webpage working the same.
 
-![Webpage Screenshot](./assets/images/screenshot.jpg)
+![Webpage Screenshot](./assets/images/screenshot.png)
